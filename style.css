@@ -67,7 +67,7 @@ body
 .hero
 {
   position: absolute;
-  width:1200px;
+
   margin-left:0;
   margin-top:0;
 
@@ -84,8 +84,7 @@ h1
 
 .button
 {
-  margin-top:30px;
-  margin-left:440px;
+  margin:auto;
 
 }
 
@@ -95,9 +94,9 @@ h1
   padding:10px 30px;
   color:white;
   text-decoration: none;
-  margin-right:5px;
-  font-size:13px
-  text-transform: uppercase;
+  margin:auto;
+  font-size:13px;
+
 }
 
 .btn-one
